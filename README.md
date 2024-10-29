@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashraj575
+- 👋 Hi, I’m Yashraj N Pai
 - 👀 I’m interested in AI&ML
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects based on Python language 
